@@ -1,58 +1,57 @@
-<h1 align="center">Hi, I'm Daryl</h1>
-<h3 align="center">A passionate frontend developer in Belgium.</h3>
+### Hi, I'm Daryl - [Leweyse][website] 👋
 
-- 🔭 I’m currently working on [Praten](https://github.com/Leweyse/praten)
+## I'm a passionate frontend developer in Belgium
 
+- 🔭 I’m currently working on [Praten][praten]
 - 🌱 I’m currently learning **Three.js and JSON Web Tokens**
-
-- 👨‍💻 All of my projects are available at [https://leweyse.github.io/portfolio](https://leweyse.github.io/portfolio)
-
+- 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
+- ⚡ Fun fact: I love to play piano and photography
 
-- 📫 How to reach me **darylcastro67@gmail.com**
+### Youtube Playing 🎧
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/Leweyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="@leweyse" height="30" width="40" /></a>
-</p>
+[![Dancer in the dark](https://yt-embed.herokuapp.com/embed?v=iOqTF-oz41k)](https://www.youtube.com/watch?v=iOqTF-oz41k "Dancer in the dark")
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin: 20px;"/>
-</a> 
-<a href="https://expressjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://heroku.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://reactnative.dev/" target="_blank"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-<a href="https://sass-lang.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/ style="margin: 20px;"> 
-</a> 
-</p>
+### Connect with me:
 
+[<img align="left" alt="Leweyse" width="22px" src="https://img.icons8.com/android/24/000000/airplane-take-off.png" />][website]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][express]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongoDB]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
+[<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
+
+<br />
+<br />
+
+[website]: https://leweyse.github.io/portfolio/
+[praten]: https://github.com/Leweyse/praten
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[html]: https://www.w3.org/html/
+[css]: https://www.w3schools.com/css/
+[sass]: https://sass-lang.com
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[react]: https://reactjs.org/
+[node]: https://nodejs.org
+[mongoDB]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[heroku]: https://heroku.com
+[express]: https://expressjs.com/
+[figma]: https://www.figma.com/
