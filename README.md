@@ -34,9 +34,6 @@
 [<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
 
-<br />
-<br />
-
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://github.com/Leweyse/praten
 [twitter]: https://twitter.com/codeSTACKr
