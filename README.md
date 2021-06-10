@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
 - ⚡ Fun fact: I love to play piano and photography
 
-### Youtube Playing 🎧
+### Most played of the week 🎧
 
 [<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="50%">](https://youtu.be/iOqTF-oz41k)
 
