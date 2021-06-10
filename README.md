@@ -1,4 +1,4 @@
-# Hi, I'm Daryl - [Leweyse][website] 👋
+### Hi, I'm Daryl - [Leweyse][website] 👋
 
 ## I'm a passionate frontend developer in Belgium
 
@@ -8,17 +8,17 @@
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
 - ⚡ Fun fact: I love to play piano and photography
 
-### Most played of the week 🎧
+## Most played of the week 🎧
 
 [<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="30%">][song]
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Leweyse" width="30px" src="https://img.icons8.com/ios/48/ffffff/airplane-take-off.png" />][website]
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
