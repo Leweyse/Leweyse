@@ -10,7 +10,7 @@
 
 ### Youtube Playing 🎧
 
-[![Dancer in the dark](https://yt-embed.herokuapp.com/embed?v=iOqTF-oz41k)](https://www.youtube.com/watch?v=iOqTF-oz41k "Dancer in the dark")
+[<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="50%">](https://youtu.be/iOqTF-oz41k)
 
 ### Connect with me:
 
