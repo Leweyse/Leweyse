@@ -10,11 +10,11 @@
 
 ### Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="50%">](https://youtu.be/iOqTF-oz41k)
+[<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="30%">](https://youtu.be/iOqTF-oz41k)
 
 ### Connect with me:
 
-[<img align="left" alt="Leweyse" width="22px" src="https://img.icons8.com/android/24/000000/airplane-take-off.png" />][website]
+[<img align="left" alt="Leweyse" width="30px" src="https://img.icons8.com/carbon-copy/100/000000/airplane-take-off.png" />][website]
 
 <br />
 
