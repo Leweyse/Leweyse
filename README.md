@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Leweyse" width="30px" src="https://img.icons8.com/carbon-copy/100/000000/airplane-take-off.png" />][website]
+
 [<a align="left" width="30px"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="48" height="48"
 viewBox="0 0 172 172"
