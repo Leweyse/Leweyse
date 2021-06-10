@@ -10,7 +10,7 @@
 
 ### Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="30%">](https://youtu.be/iOqTF-oz41k)
+[<img src="https://img.youtube.com/vi/iOqTF-oz41k/maxresdefault.jpg" width="30%">][song]
 
 ### Connect with me:
 
@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
@@ -36,10 +36,8 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://github.com/Leweyse/praten
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[song]: https://youtu.be/iOqTF-oz41k
+[vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
 [sass]: https://sass-lang.com
