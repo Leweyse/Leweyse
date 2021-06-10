@@ -1,4 +1,4 @@
-### Hi, I'm Daryl - [Leweyse][website] 👋
+# Hi, I'm Daryl - [Leweyse][website] 👋
 
 ## I'm a passionate frontend developer in Belgium
 
