@@ -36,7 +36,7 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://github.com/Leweyse/praten
-[song]: https://youtu.be/iOqTF-oz41k
+[song]: https://www.youtube.com/watch?v=C7Gd6_p9hCc
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
