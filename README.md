@@ -10,7 +10,7 @@
 
 ## Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/maxresdefault.jpg" width="30%">][song]
+[<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/0.jpg" width="30%">][song]
 
 ## Connect with me:
 
