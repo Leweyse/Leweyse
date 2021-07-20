@@ -6,11 +6,14 @@
 - 🌱 I’m currently learning **Three.js and JSON Web Tokens**
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
-- ⚡ Fun fact: I love to play piano and photography
+- ⚡ Fun fact: I love music and photography
 
 ## Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/FF2sqhC9MeI/0.jpg" width="30%">][song]
+[<img src="https://img.youtube.com/vi/FF2sqhC9MeI/0.jpg" width="30%">][songC]
+
+- Past weeks
+ * [<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/0.jpg" width="15%">][songL] * [<img src="https://img.youtube.com/vi/YDZXEkH-OG8/0.jpg" width="15%">][songL1] * [<img src="https://img.youtube.com/vi/n1h1AOeVQ38/0.jpg" width="15%">][songL2] * [<img src="https://img.youtube.com/vi/Rncqamit97g/0.jpg" width="15%">][songL3]
 
 ## Connect with me:
 
@@ -36,7 +39,11 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://github.com/Leweyse/praten
-[song]: https://www.youtube.com/watch?v=FF2sqhC9MeI
+[songC]: https://www.youtube.com/watch?v=FF2sqhC9MeI
+[songL]: https://www.youtube.com/watch?v=C7Gd6_p9hCc
+[songL1]: https://www.youtube.com/watch?v=YDZXEkH-OG8
+[songL2]: https://www.youtube.com/watch?v=n1h1AOeVQ38
+[songL3]: https://www.youtube.com/watch?v=Rncqamit97g
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
