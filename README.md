@@ -13,7 +13,7 @@
 [<img src="https://img.youtube.com/vi/FF2sqhC9MeI/0.jpg" width="30%">][songC]
 
 ### Past weeks
-[<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/0.jpg" width="20%">][songL] * [<img src="https://img.youtube.com/vi/YDZXEkH-OG8/0.jpg" width="20%">][songL1] * [<img src="https://img.youtube.com/vi/n1h1AOeVQ38/0.jpg" width="20%">][songL2] * [<img src="https://img.youtube.com/vi/Rncqamit97g/0.jpg" width="20%">][songL3]
+[<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/0.jpg" width="20%">][songL]   [<img src="https://img.youtube.com/vi/YDZXEkH-OG8/0.jpg" width="20%">][songL1]    [<img src="https://img.youtube.com/vi/n1h1AOeVQ38/0.jpg" width="20%">][songL2]    [<img src="https://img.youtube.com/vi/Rncqamit97g/0.jpg" width="20%">][songL3]
 
 ## Connect with me:
 
