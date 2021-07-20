@@ -2,7 +2,7 @@
 
 ## I'm a passionate FrontEnd developer in Belgium
 
-- 🔭 I’m currently working on [Praten][praten]
+- 🔭 I’m currently working with [WebGL][praten]
 - 🌱 I’m currently learning **Three.js and JSON Web Tokens**
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
@@ -38,7 +38,7 @@
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
 
 [website]: https://leweyse.github.io/portfolio/
-[praten]: https://github.com/Leweyse/praten
+[praten]: https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
 [songC]: https://www.youtube.com/watch?v=FF2sqhC9MeI
 [songL]: https://www.youtube.com/watch?v=C7Gd6_p9hCc
 [songL1]: https://www.youtube.com/watch?v=YDZXEkH-OG8
