@@ -10,7 +10,7 @@
 
 ## Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/0.jpg" width="30%">][song]
+[<img src="https://img.youtube.com/vi/FF2sqhC9MeI/0.jpg" width="30%">][song]
 
 ## Connect with me:
 
@@ -36,7 +36,7 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://github.com/Leweyse/praten
-[song]: https://www.youtube.com/watch?v=C7Gd6_p9hCc
+[song]: https://www.youtube.com/watch?v=FF2sqhC9MeI
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
