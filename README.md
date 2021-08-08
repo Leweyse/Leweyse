@@ -10,10 +10,10 @@
 
 ## Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/FF2sqhC9MeI/0.jpg" width="30%">][songC]
+[<img src="https://img.youtube.com/vi/im3iK6GoOSE/0.jpg" width="30%">][songC]
 
-### Past weeks
-[<img src="https://img.youtube.com/vi/C7Gd6_p9hCc/0.jpg" width="20%">][songL]   [<img src="https://img.youtube.com/vi/YDZXEkH-OG8/0.jpg" width="20%">][songL1]    [<img src="https://img.youtube.com/vi/n1h1AOeVQ38/0.jpg" width="20%">][songL2]    [<img src="https://img.youtube.com/vi/Rncqamit97g/0.jpg" width="20%">][songL3]
+### Last week
+[<img src="https://img.youtube.com/vi/FF2sqhC9MeI/0.jpg" width="20%">][songL]
 
 ## Connect with me:
 
@@ -39,11 +39,8 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
-[songC]: https://www.youtube.com/watch?v=FF2sqhC9MeI
-[songL]: https://www.youtube.com/watch?v=C7Gd6_p9hCc
-[songL1]: https://www.youtube.com/watch?v=YDZXEkH-OG8
-[songL2]: https://www.youtube.com/watch?v=n1h1AOeVQ38
-[songL3]: https://www.youtube.com/watch?v=Rncqamit97g
+[songC]: https://www.youtube.com/watch?v=im3iK6GoOSE
+[songL]: https://www.youtube.com/watch?v=FF2sqhC9MeI
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
