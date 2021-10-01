@@ -8,10 +8,9 @@
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
 - ⚡ Fun fact: I love music and photography
 
-## Most played of the week 🎧
+## Most played of the week 🎧 Constant Smiles - Run to Stay
 
 [<img src="https://img.youtube.com/vi/-92sP5P-0Vc/0.jpg" width="30%">][songC] 
-### Constant Smiles - Run to Stay
 
 ## Connect with me:
 
