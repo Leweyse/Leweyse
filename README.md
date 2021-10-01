@@ -10,10 +10,10 @@
 
 ## Most played of the week 🎧
 
-[<img src="https://img.youtube.com/vi/tIu4esf96rM/0.jpg" width="30%">][songC]
+[<img src="https://img.youtube.com/vi/-92sP5P-0Vc/0.jpg" width="30%">][songC]
 
 ### Last week
-[<img src="https://img.youtube.com/vi/L0MJ9BM4oPs/0.jpg" width="20%">][songL]
+[<img src="https://img.youtube.com/vi/tIu4esf96rM/0.jpg" width="20%">][songL]
 
 ## Connect with me:
 
@@ -39,8 +39,8 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
-[songC]: https://www.youtube.com/watch?v=tIu4esf96rM
-[songL]: https://www.youtube.com/watch?v=L0MJ9BM4oPs
+[songC]: https://www.youtube.com/watch?v=-92sP5P-0Vc
+[songL]: https://www.youtube.com/watch?v=tIu4esf96rM
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
