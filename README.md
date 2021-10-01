@@ -1,6 +1,6 @@
 ### Hi, I'm Daryl - [Leweyse][website] 👋
 
-## I'm a passionate FrontEnd developer in Belgium
+## I'm a passionate Front-End Developer in Belgium
 
 - 🔭 I’m currently working with [WebGL][praten]
 - 🌱 I’m currently learning **Three.js and JSON Web Tokens**
