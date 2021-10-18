@@ -2,13 +2,13 @@
 
 ## I'm a passionate Front-End Developer in Belgium
 
-- 🔭 I’m currently working with [WebGL][praten]
-- 🌱 I’m currently learning **Three.js and JSON Web Tokens**
+- 🔭 I’m currently working with [JS][praten]
+- 🌱 I’m currently learning **Three.js**
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
 - ⚡ Fun fact: I love music and photography
 
-## Most played of the week 🎧 `Constant Smiles - Run to Stay`
+## Most played of the week 🎧 `John Maus - Do Your Best`
 [<img src="https://img.youtube.com/vi/aMTOAKNJqpA/0.jpg" width="30%">][songC] 
 
 ## Connect with me:
@@ -34,7 +34,7 @@
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
 
 [website]: https://leweyse.github.io/portfolio/
-[praten]: https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
+[praten]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [songC]: https://www.youtube.com/watch?v=aMTOAKNJqpA
 [songL]: https://www.youtube.com/watch?v=-92sP5P-0Vc
 [vscode]: https://code.visualstudio.com/
