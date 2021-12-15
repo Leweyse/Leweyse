@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love music and photography
 
 ## Most played of the week 🎧 `John Maus - Do Your Best`
-[<img src="https://img.youtube.com/vi/aMTOAKNJqpA/0.jpg" width="30%">][songC] 
+[<img src="https://img.youtube.com/vi/Hr0k5vXkPc4/0.jpg" width="30%">][songC] 
 
 ## More about me:
 
@@ -42,8 +42,8 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[songC]: https://www.youtube.com/watch?v=aMTOAKNJqpA
-[songL]: https://www.youtube.com/watch?v=-92sP5P-0Vc
+[songC]: https://www.youtube.com/watch?v=Hr0k5vXkPc4
+[songL]: https://www.youtube.com/watch?v=aMTOAKNJqpA
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
