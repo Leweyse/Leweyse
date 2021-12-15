@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
 - ⚡ Fun fact: I love music and photography
 
-## Most played of the week 🎧 `John Maus - Do Your Best`
+## Most played of the week 🎧 `Black Marble - Somewhere`
 [<img src="https://img.youtube.com/vi/Hr0k5vXkPc4/0.jpg" width="30%">][songC] 
 
 ## More about me:
