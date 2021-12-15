@@ -2,7 +2,7 @@
 
 ## I'm a passionate Front-End Developer in Belgium
 
-- 🔭 I’m currently working with [JS][praten]
+- 🔭 I’m currently working with ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 - 🌱 I’m currently learning **Three.js**
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
@@ -10,6 +10,13 @@
 
 ## Most played of the week 🎧 `John Maus - Do Your Best`
 [<img src="https://img.youtube.com/vi/aMTOAKNJqpA/0.jpg" width="30%">][songC] 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Leweyse&show_icons=true&line_height=21&theme=react" alt="Daryl's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leweyse&theme=react&line_height=27&layout=compact" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Leweyse)
 
 ## Connect with me:
 
