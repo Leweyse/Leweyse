@@ -38,7 +38,7 @@
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Leweyse)
+## ![Profile Views](https://komarev.com/ghpvc/?username=Leweyse)
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
