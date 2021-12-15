@@ -11,16 +11,12 @@
 ## Most played of the week 🎧 `John Maus - Do Your Best`
 [<img src="https://img.youtube.com/vi/aMTOAKNJqpA/0.jpg" width="30%">][songC] 
 
+## More about me:
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leweyse&show_icons=true&line_height=21&theme=react" alt="Daryl's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leweyse&theme=react&line_height=27&layout=compact" />
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Leweyse)
-
-## Connect with me:
-
-[<img align="left" alt="Leweyse" width="30px" src="https://img.icons8.com/ios/48/ffffff/airplane-take-off.png" />][website]
 
 <br />
 
@@ -39,6 +35,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
+
+![Profile Views](https://komarev.com/ghpvc/?username=Leweyse)
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
