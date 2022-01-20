@@ -8,8 +8,8 @@
 - 💬 Ask me about **HTML5, CSS3, JS, React JS, Express, Mongoose**
 - ⚡ Fun fact: I love music and photography
 
-## Most played of the week 🎧 `Black Marble - Somewhere`
-[<img src="https://img.youtube.com/vi/Hr0k5vXkPc4/0.jpg" width="30%">][songC] 
+## Most played of the week 🎧 `Daughter - Numbers`
+[<img src="https://img.youtube.com/vi/z-fD3PIRSO8/0.jpg" width="30%">][songC] 
 
 ## More about me:
 
@@ -22,19 +22,35 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][express]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongoDB]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
-[<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
+#### Languages:
+
+![HTML5](https://img.shields.io/badge/-HTML-353535?style=plastic-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-353535?style=plastic-square&logo=css3&logoColor=dodgerblue)
+![JavaScript](https://img.shields.io/badge/-Javascript-353535?style=plastic-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-Typescript-353535?style=plastic-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-353535?style=plastic-square&logo=php)
+
+#### Frameworks and libraries:
+
+![Sass](https://img.shields.io/badge/-Sass-353535?style=plastic-square&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-353535?style=plastic-square&logo=bootstrap)
+![Socketio](https://img.shields.io/badge/-Socket.io-353535?style=plastic-square&logo=socket.io)
+![React](https://img.shields.io/badge/-React-353535?style=plastic-square&logo=react)
+![Symfony](https://img.shields.io/badge/-Symfony-353535?style=plastic-square&logo=symfony)
+
+#### Tools
+
+![Nodejs](https://img.shields.io/badge/-Node.Js-353535?style=plastic-square&logo=node.js)
+![Apache](https://img.shields.io/badge/-Apache-353535?style=plastic-square&logo=Apache)
+![Git](https://img.shields.io/badge/-Git-353535?style=plastic-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-353535?style=plastic-square&logo=github)
+![Terminal](https://img.shields.io/badge/-Terminal/Powershell-353535?style=plastic-square&logo=powershell)
+
+#### Software
+
+![VsCode](https://img.shields.io/badge/-VsCode-353535?style=plastic-square&logo=visualstudiocode&logoColor=dodgerblue)
+![Datagrip](https://img.shields.io/badge/-Datagrip-353535?style=plastic-square&logo=datagrip&logoColor=mediumaquamarine)
+![Xampp](https://img.shields.io/badge/-Xampp-353535?style=plastic-square&logo=xampp)
 
 <br />
 
@@ -42,8 +58,8 @@
 
 [website]: https://leweyse.github.io/portfolio/
 [praten]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[songC]: https://www.youtube.com/watch?v=Hr0k5vXkPc4
-[songL]: https://www.youtube.com/watch?v=aMTOAKNJqpA
+[songC]: https://www.youtube.com/watch?v=z-fD3PIRSO8
+[songL]: https://www.youtube.com/watch?v=Hr0k5vXkPc4
 [vscode]: https://code.visualstudio.com/
 [html]:  https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
